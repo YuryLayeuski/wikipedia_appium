@@ -1,3 +1,3 @@
-# appium_wikipedia
+# wikipedia+appium
 
-Test automation main functionality for Wikipedia.app using Ruby language + Cucumber + Appium
+Test automation for main functionality Wikipedia.app using Ruby language + Cucumber + Appium
